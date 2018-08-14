@@ -1,0 +1,15 @@
+.blue .cg-board-wrap {
+  background-image: url(../img/board/blue.svg);
+}
+
+.brown .cg-board-wrap {
+  background-image: url(../img/board/brown.svg);
+}
+
+.green .cg-board-wrap {
+  background-image: url(../img/board/green.svg);
+}
+
+.purple .cg-board-wrap {
+  background-image: url(../img/board/purple.svg);
+}

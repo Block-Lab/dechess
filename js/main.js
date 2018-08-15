@@ -13,7 +13,7 @@ function toColor(chess) {
 
 function playOtherSide(cg, chess) {
   return (orig, dest) => {
-    chess.move({from: orig, to: dest});
+    chess.move({from: orig, to: dest, promotion: 'q'});
     cg.set({
       fen: chess.fen(),
       turnColor: toColor(chess),

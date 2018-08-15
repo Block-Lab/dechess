@@ -6,8 +6,8 @@
  */
 
 .cg-board-wrap {
-  width: 320px;
-  height: 320px;
+  width: 512px;
+  height: 512px;
   position: relative;
   display: block;
 }

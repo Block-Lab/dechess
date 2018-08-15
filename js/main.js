@@ -34,7 +34,7 @@ var options = {
       }
 }
 
-ground = Chessground(document.getElementById("dirty"), options);
+ground = Chessground(document.getElementById("board"), options);
 
 ground.set({
   movable: { events: { after: playOtherSide(ground, chess) } }

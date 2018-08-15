@@ -15,6 +15,7 @@ function playOtherSide(cg, chess) {
   return (orig, dest) => {
     chess.move({from: orig, to: dest});
     cg.set({
+      fen: chess.fen(),
       turnColor: toColor(chess),
       movable: {
         color: toColor(chess),

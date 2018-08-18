@@ -1,531 +1,531 @@
 /* alpha */
-.alpha .cg-board-wrap piece.pawn.white {
+.alpha piece.pawn.white {
   background-image: url('../img/pieces/alpha/wP.svg');
 }
-.alpha .cg-board-wrap piece.bishop.white {
+.alpha piece.bishop.white {
   background-image: url('../img/pieces/alpha/wB.svg');
 }
-.alpha .cg-board-wrap piece.knight.white {
+.alpha piece.knight.white {
   background-image: url('../img/pieces/alpha/wN.svg');
 }
-.alpha .cg-board-wrap piece.rook.white {
+.alpha piece.rook.white {
   background-image: url('../img/pieces/alpha/wR.svg');
 }
-.alpha .cg-board-wrap piece.queen.white {
+.alpha piece.queen.white {
   background-image: url('../img/pieces/alpha/wQ.svg');
 }
-.alpha .cg-board-wrap piece.king.white {
+.alpha piece.king.white {
   background-image: url('../img/pieces/alpha/wK.svg');
 }
-.alpha .cg-board-wrap piece.pawn.black {
+.alpha piece.pawn.black {
   background-image: url('../img/pieces/alpha/bP.svg');
 }
-.alpha .cg-board-wrap piece.bishop.black {
+.alpha piece.bishop.black {
   background-image: url('../img/pieces/alpha/bB.svg');
 }
-.alpha .cg-board-wrap piece.knight.black {
+.alpha piece.knight.black {
   background-image: url('../img/pieces/alpha/bN.svg');
 }
-.alpha .cg-board-wrap piece.rook.black {
+.alpha piece.rook.black {
   background-image: url('../img/pieces/alpha/bR.svg');
 }
-.alpha .cg-board-wrap piece.queen.black {
+.alpha piece.queen.black {
   background-image: url('../img/pieces/alpha/bQ.svg');
 }
-.alpha .cg-board-wrap piece.king.black {
+.alpha piece.king.black {
   background-image: url('../img/pieces/alpha/bK.svg');
 }
 
 /* cburnett */
-.cburnett .cg-board-wrap piece.pawn.white {
+.cburnett piece.pawn.white {
   background-image: url('../img/pieces/cburnett/wP.svg');
 }
-.cburnett .cg-board-wrap piece.bishop.white {
+.cburnett piece.bishop.white {
   background-image: url('../img/pieces/cburnett/wB.svg');
 }
-.cburnett .cg-board-wrap piece.knight.white {
+.cburnett piece.knight.white {
   background-image: url('../img/pieces/cburnett/wN.svg');
 }
-.cburnett .cg-board-wrap piece.rook.white {
+.cburnett piece.rook.white {
   background-image: url('../img/pieces/cburnett/wR.svg');
 }
-.cburnett .cg-board-wrap piece.queen.white {
+.cburnett piece.queen.white {
   background-image: url('../img/pieces/cburnett/wQ.svg');
 }
-.cburnett .cg-board-wrap piece.king.white {
+.cburnett piece.king.white {
   background-image: url('../img/pieces/cburnett/wK.svg');
 }
-.cburnett .cg-board-wrap piece.pawn.black {
+.cburnett piece.pawn.black {
   background-image: url('../img/pieces/cburnett/bP.svg');
 }
-.cburnett .cg-board-wrap piece.bishop.black {
+.cburnett piece.bishop.black {
   background-image: url('../img/pieces/cburnett/bB.svg');
 }
-.cburnett .cg-board-wrap piece.knight.black {
+.cburnett piece.knight.black {
   background-image: url('../img/pieces/cburnett/bN.svg');
 }
-.cburnett .cg-board-wrap piece.rook.black {
+.cburnett piece.rook.black {
   background-image: url('../img/pieces/cburnett/bR.svg');
 }
-.cburnett .cg-board-wrap piece.queen.black {
+.cburnett piece.queen.black {
   background-image: url('../img/pieces/cburnett/bQ.svg');
 }
-.cburnett .cg-board-wrap piece.king.black {
+.cburnett piece.king.black {
   background-image: url('../img/pieces/cburnett/bK.svg');
 }
 
 /* 7 */
-.7 .cg-board-wrap piece.pawn.white {
+.7 piece.pawn.white {
   background-image: url('../img/pieces/7/wP.svg');
 }
-.7 .cg-board-wrap piece.bishop.white {
+.7 piece.bishop.white {
   background-image: url('../img/pieces/7/wB.svg');
 }
-.7 .cg-board-wrap piece.knight.white {
+.7 piece.knight.white {
   background-image: url('../img/pieces/7/wN.svg');
 }
-.7 .cg-board-wrap piece.rook.white {
+.7 piece.rook.white {
   background-image: url('../img/pieces/7/wR.svg');
 }
-.7 .cg-board-wrap piece.queen.white {
+.7 piece.queen.white {
   background-image: url('../img/pieces/7/wQ.svg');
 }
-.7 .cg-board-wrap piece.king.white {
+.7 piece.king.white {
   background-image: url('../img/pieces/7/wK.svg');
 }
-.7 .cg-board-wrap piece.pawn.black {
+.7 piece.pawn.black {
   background-image: url('../img/pieces/7/bP.svg');
 }
-.7 .cg-board-wrap piece.bishop.black {
+.7 piece.bishop.black {
   background-image: url('../img/pieces/7/bB.svg');
 }
-.7 .cg-board-wrap piece.knight.black {
+.7 piece.knight.black {
   background-image: url('../img/pieces/7/bN.svg');
 }
-.7 .cg-board-wrap piece.rook.black {
+.7 piece.rook.black {
   background-image: url('../img/pieces/7/bR.svg');
 }
-.7 .cg-board-wrap piece.queen.black {
+.7 piece.queen.black {
   background-image: url('../img/pieces/7/bQ.svg');
 }
-.7 .cg-board-wrap piece.king.black {
+.7 piece.king.black {
   background-image: url('../img/pieces/7/bK.svg');
 }
 
 /* nut */
-.nut .cg-board-wrap piece.pawn.white {
+.nut piece.pawn.white {
   background-image: url('../img/pieces/nut/wP.svg');
 }
-.nut .cg-board-wrap piece.bishop.white {
+.nut piece.bishop.white {
   background-image: url('../img/pieces/nut/wB.svg');
 }
-.nut .cg-board-wrap piece.knight.white {
+.nut piece.knight.white {
   background-image: url('../img/pieces/nut/wN.svg');
 }
-.nut .cg-board-wrap piece.rook.white {
+.nut piece.rook.white {
   background-image: url('../img/pieces/nut/wR.svg');
 }
-.nut .cg-board-wrap piece.queen.white {
+.nut piece.queen.white {
   background-image: url('../img/pieces/nut/wQ.svg');
 }
-.nut .cg-board-wrap piece.king.white {
+.nut piece.king.white {
   background-image: url('../img/pieces/nut/wK.svg');
 }
-.nut .cg-board-wrap piece.pawn.black {
+.nut piece.pawn.black {
   background-image: url('../img/pieces/nut/bP.svg');
 }
-.nut .cg-board-wrap piece.bishop.black {
+.nut piece.bishop.black {
   background-image: url('../img/pieces/nut/bB.svg');
 }
-.nut .cg-board-wrap piece.knight.black {
+.nut piece.knight.black {
   background-image: url('../img/pieces/nut/bN.svg');
 }
-.nut .cg-board-wrap piece.rook.black {
+.nut piece.rook.black {
   background-image: url('../img/pieces/nut/bR.svg');
 }
-.nut .cg-board-wrap piece.queen.black {
+.nut piece.queen.black {
   background-image: url('../img/pieces/nut/bQ.svg');
 }
-.nut .cg-board-wrap piece.king.black {
+.nut piece.king.black {
   background-image: url('../img/pieces/nut/bK.svg');
 }
 
 /* companion */
-.companion .cg-board-wrap piece.pawn.white {
+.companion piece.pawn.white {
   background-image: url('../img/pieces/companion/wP.svg');
 }
-.companion .cg-board-wrap piece.bishop.white {
+.companion piece.bishop.white {
   background-image: url('../img/pieces/companion/wB.svg');
 }
-.companion .cg-board-wrap piece.knight.white {
+.companion piece.knight.white {
   background-image: url('../img/pieces/companion/wN.svg');
 }
-.companion .cg-board-wrap piece.rook.white {
+.companion piece.rook.white {
   background-image: url('../img/pieces/companion/wR.svg');
 }
-.companion .cg-board-wrap piece.queen.white {
+.companion piece.queen.white {
   background-image: url('../img/pieces/companion/wQ.svg');
 }
-.companion .cg-board-wrap piece.king.white {
+.companion piece.king.white {
   background-image: url('../img/pieces/companion/wK.svg');
 }
-.companion .cg-board-wrap piece.pawn.black {
+.companion piece.pawn.black {
   background-image: url('../img/pieces/companion/bP.svg');
 }
-.companion .cg-board-wrap piece.bishop.black {
+.companion piece.bishop.black {
   background-image: url('../img/pieces/companion/bB.svg');
 }
-.companion .cg-board-wrap piece.knight.black {
+.companion piece.knight.black {
   background-image: url('../img/pieces/companion/bN.svg');
 }
-.companion .cg-board-wrap piece.rook.black {
+.companion piece.rook.black {
   background-image: url('../img/pieces/companion/bR.svg');
 }
-.companion .cg-board-wrap piece.queen.black {
+.companion piece.queen.black {
   background-image: url('../img/pieces/companion/bQ.svg');
 }
-.companion .cg-board-wrap piece.king.black {
+.companion piece.king.black {
   background-image: url('../img/pieces/companion/bK.svg');
 }
 
 /* fantasy */
-.fantasy .cg-board-wrap piece.pawn.white {
+.fantasy piece.pawn.white {
   background-image: url('../img/pieces/fantasy/wP.svg');
 }
-.fantasy .cg-board-wrap piece.bishop.white {
+.fantasy piece.bishop.white {
   background-image: url('../img/pieces/fantasy/wB.svg');
 }
-.fantasy .cg-board-wrap piece.knight.white {
+.fantasy piece.knight.white {
   background-image: url('../img/pieces/fantasy/wN.svg');
 }
-.fantasy .cg-board-wrap piece.rook.white {
+.fantasy piece.rook.white {
   background-image: url('../img/pieces/fantasy/wR.svg');
 }
-.fantasy .cg-board-wrap piece.queen.white {
+.fantasy piece.queen.white {
   background-image: url('../img/pieces/fantasy/wQ.svg');
 }
-.fantasy .cg-board-wrap piece.king.white {
+.fantasy piece.king.white {
   background-image: url('../img/pieces/fantasy/wK.svg');
 }
-.fantasy .cg-board-wrap piece.pawn.black {
+.fantasy piece.pawn.black {
   background-image: url('../img/pieces/fantasy/bP.svg');
 }
-.fantasy .cg-board-wrap piece.bishop.black {
+.fantasy piece.bishop.black {
   background-image: url('../img/pieces/fantasy/bB.svg');
 }
-.fantasy .cg-board-wrap piece.knight.black {
+.fantasy piece.knight.black {
   background-image: url('../img/pieces/fantasy/bN.svg');
 }
-.fantasy .cg-board-wrap piece.rook.black {
+.fantasy piece.rook.black {
   background-image: url('../img/pieces/fantasy/bR.svg');
 }
-.fantasy .cg-board-wrap piece.queen.black {
+.fantasy piece.queen.black {
   background-image: url('../img/pieces/fantasy/bQ.svg');
 }
-.fantasy .cg-board-wrap piece.king.black {
+.fantasy piece.king.black {
   background-image: url('../img/pieces/fantasy/bK.svg');
 }
 
 /* letter */
-.letter .cg-board-wrap piece.pawn.white {
+.letter piece.pawn.white {
   background-image: url('../img/pieces/letter/wP.svg');
 }
-.letter .cg-board-wrap piece.bishop.white {
+.letter piece.bishop.white {
   background-image: url('../img/pieces/letter/wB.svg');
 }
-.letter .cg-board-wrap piece.knight.white {
+.letter piece.knight.white {
   background-image: url('../img/pieces/letter/wN.svg');
 }
-.letter .cg-board-wrap piece.rook.white {
+.letter piece.rook.white {
   background-image: url('../img/pieces/letter/wR.svg');
 }
-.letter .cg-board-wrap piece.queen.white {
+.letter piece.queen.white {
   background-image: url('../img/pieces/letter/wQ.svg');
 }
-.letter .cg-board-wrap piece.king.white {
+.letter piece.king.white {
   background-image: url('../img/pieces/letter/wK.svg');
 }
-.letter .cg-board-wrap piece.pawn.black {
+.letter piece.pawn.black {
   background-image: url('../img/pieces/letter/bP.svg');
 }
-.letter .cg-board-wrap piece.bishop.black {
+.letter piece.bishop.black {
   background-image: url('../img/pieces/letter/bB.svg');
 }
-.letter .cg-board-wrap piece.knight.black {
+.letter piece.knight.black {
   background-image: url('../img/pieces/letter/bN.svg');
 }
-.letter .cg-board-wrap piece.rook.black {
+.letter piece.rook.black {
   background-image: url('../img/pieces/letter/bR.svg');
 }
-.letter .cg-board-wrap piece.queen.black {
+.letter piece.queen.black {
   background-image: url('../img/pieces/letter/bQ.svg');
 }
-.letter .cg-board-wrap piece.king.black {
+.letter piece.king.black {
   background-image: url('../img/pieces/letter/bK.svg');
 }
 
 /* merida */
-.merida .cg-board-wrap piece.pawn.white {
+.merida piece.pawn.white {
   background-image: url('../img/pieces/merida/wP.svg');
 }
-.merida .cg-board-wrap piece.bishop.white {
+.merida piece.bishop.white {
   background-image: url('../img/pieces/merida/wB.svg');
 }
-.merida .cg-board-wrap piece.knight.white {
+.merida piece.knight.white {
   background-image: url('../img/pieces/merida/wN.svg');
 }
-.merida .cg-board-wrap piece.rook.white {
+.merida piece.rook.white {
   background-image: url('../img/pieces/merida/wR.svg');
 }
-.merida .cg-board-wrap piece.queen.white {
+.merida piece.queen.white {
   background-image: url('../img/pieces/merida/wQ.svg');
 }
-.merida .cg-board-wrap piece.king.white {
+.merida piece.king.white {
   background-image: url('../img/pieces/merida/wK.svg');
 }
-.merida .cg-board-wrap piece.pawn.black {
+.merida piece.pawn.black {
   background-image: url('../img/pieces/merida/bP.svg');
 }
-.merida .cg-board-wrap piece.bishop.black {
+.merida piece.bishop.black {
   background-image: url('../img/pieces/merida/bB.svg');
 }
-.merida .cg-board-wrap piece.knight.black {
+.merida piece.knight.black {
   background-image: url('../img/pieces/merida/bN.svg');
 }
-.merida .cg-board-wrap piece.rook.black {
+.merida piece.rook.black {
   background-image: url('../img/pieces/merida/bR.svg');
 }
-.merida .cg-board-wrap piece.queen.black {
+.merida piece.queen.black {
   background-image: url('../img/pieces/merida/bQ.svg');
 }
-.merida .cg-board-wrap piece.king.black {
+.merida piece.king.black {
   background-image: url('../img/pieces/merida/bK.svg');
 }
 
 /* mono */
-.mono .cg-board-wrap piece.pawn.white {
+.mono piece.pawn.white {
   background-image: url('../img/pieces/mono/wP.svg');
 }
-.mono .cg-board-wrap piece.bishop.white {
+.mono piece.bishop.white {
   background-image: url('../img/pieces/mono/wB.svg');
 }
-.mono .cg-board-wrap piece.knight.white {
+.mono piece.knight.white {
   background-image: url('../img/pieces/mono/wN.svg');
 }
-.mono .cg-board-wrap piece.rook.white {
+.mono piece.rook.white {
   background-image: url('../img/pieces/mono/wR.svg');
 }
-.mono .cg-board-wrap piece.queen.white {
+.mono piece.queen.white {
   background-image: url('../img/pieces/mono/wQ.svg');
 }
-.mono .cg-board-wrap piece.king.white {
+.mono piece.king.white {
   background-image: url('../img/pieces/mono/wK.svg');
 }
-.mono .cg-board-wrap piece.pawn.black {
+.mono piece.pawn.black {
   background-image: url('../img/pieces/mono/bP.svg');
 }
-.mono .cg-board-wrap piece.bishop.black {
+.mono piece.bishop.black {
   background-image: url('../img/pieces/mono/bB.svg');
 }
-.mono .cg-board-wrap piece.knight.black {
+.mono piece.knight.black {
   background-image: url('../img/pieces/mono/bN.svg');
 }
-.mono .cg-board-wrap piece.rook.black {
+.mono piece.rook.black {
   background-image: url('../img/pieces/mono/bR.svg');
 }
-.mono .cg-board-wrap piece.queen.black {
+.mono piece.queen.black {
   background-image: url('../img/pieces/mono/bQ.svg');
 }
-.mono .cg-board-wrap piece.king.black {
+.mono piece.king.black {
   background-image: url('../img/pieces/mono/bK.svg');
 }
 
 /* pirouetti */
-.pirouetti .cg-board-wrap piece.pawn.white {
+.pirouetti piece.pawn.white {
   background-image: url('../img/pieces/pirouetti/wP.svg');
 }
-.pirouetti .cg-board-wrap piece.bishop.white {
+.pirouetti piece.bishop.white {
   background-image: url('../img/pieces/pirouetti/wB.svg');
 }
-.pirouetti .cg-board-wrap piece.knight.white {
+.pirouetti piece.knight.white {
   background-image: url('../img/pieces/pirouetti/wN.svg');
 }
-.pirouetti .cg-board-wrap piece.rook.white {
+.pirouetti piece.rook.white {
   background-image: url('../img/pieces/pirouetti/wR.svg');
 }
-.pirouetti .cg-board-wrap piece.queen.white {
+.pirouetti piece.queen.white {
   background-image: url('../img/pieces/pirouetti/wQ.svg');
 }
-.pirouetti .cg-board-wrap piece.king.white {
+.pirouetti piece.king.white {
   background-image: url('../img/pieces/pirouetti/wK.svg');
 }
-.pirouetti .cg-board-wrap piece.pawn.black {
+.pirouetti piece.pawn.black {
   background-image: url('../img/pieces/pirouetti/bP.svg');
 }
-.pirouetti .cg-board-wrap piece.bishop.black {
+.pirouetti piece.bishop.black {
   background-image: url('../img/pieces/pirouetti/bB.svg');
 }
-.pirouetti .cg-board-wrap piece.knight.black {
+.pirouetti piece.knight.black {
   background-image: url('../img/pieces/pirouetti/bN.svg');
 }
-.pirouetti .cg-board-wrap piece.rook.black {
+.pirouetti piece.rook.black {
   background-image: url('../img/pieces/pirouetti/bR.svg');
 }
-.pirouetti .cg-board-wrap piece.queen.black {
+.pirouetti piece.queen.black {
   background-image: url('../img/pieces/pirouetti/bQ.svg');
 }
-.pirouetti .cg-board-wrap piece.king.black {
+.pirouetti piece.king.black {
   background-image: url('../img/pieces/pirouetti/bK.svg');
 }
 
 /* reillycraig */
-.reillycraig .cg-board-wrap piece.pawn.white {
+.reillycraig piece.pawn.white {
   background-image: url('../img/pieces/reillycraig/wP.svg');
 }
-.reillycraig .cg-board-wrap piece.bishop.white {
+.reillycraig piece.bishop.white {
   background-image: url('../img/pieces/reillycraig/wB.svg');
 }
-.reillycraig .cg-board-wrap piece.knight.white {
+.reillycraig piece.knight.white {
   background-image: url('../img/pieces/reillycraig/wN.svg');
 }
-.reillycraig .cg-board-wrap piece.rook.white {
+.reillycraig piece.rook.white {
   background-image: url('../img/pieces/reillycraig/wR.svg');
 }
-.reillycraig .cg-board-wrap piece.queen.white {
+.reillycraig piece.queen.white {
   background-image: url('../img/pieces/reillycraig/wQ.svg');
 }
-.reillycraig .cg-board-wrap piece.king.white {
+.reillycraig piece.king.white {
   background-image: url('../img/pieces/reillycraig/wK.svg');
 }
-.reillycraig .cg-board-wrap piece.pawn.black {
+.reillycraig piece.pawn.black {
   background-image: url('../img/pieces/reillycraig/bP.svg');
 }
-.reillycraig .cg-board-wrap piece.bishop.black {
+.reillycraig piece.bishop.black {
   background-image: url('../img/pieces/reillycraig/bB.svg');
 }
-.reillycraig .cg-board-wrap piece.knight.black {
+.reillycraig piece.knight.black {
   background-image: url('../img/pieces/reillycraig/bN.svg');
 }
-.reillycraig .cg-board-wrap piece.rook.black {
+.reillycraig piece.rook.black {
   background-image: url('../img/pieces/reillycraig/bR.svg');
 }
-.reillycraig .cg-board-wrap piece.queen.black {
+.reillycraig piece.queen.black {
   background-image: url('../img/pieces/reillycraig/bQ.svg');
 }
-.reillycraig .cg-board-wrap piece.king.black {
+.reillycraig piece.king.black {
   background-image: url('../img/pieces/reillycraig/bK.svg');
 }
 
 /* riohacha */
-.riohacha .cg-board-wrap piece.pawn.white {
+.riohacha piece.pawn.white {
   background-image: url('../img/pieces/riohacha/wP.svg');
 }
-.riohacha .cg-board-wrap piece.bishop.white {
+.riohacha piece.bishop.white {
   background-image: url('../img/pieces/riohacha/wB.svg');
 }
-.riohacha .cg-board-wrap piece.knight.white {
+.riohacha piece.knight.white {
   background-image: url('../img/pieces/riohacha/wN.svg');
 }
-.riohacha .cg-board-wrap piece.rook.white {
+.riohacha piece.rook.white {
   background-image: url('../img/pieces/riohacha/wR.svg');
 }
-.riohacha .cg-board-wrap piece.queen.white {
+.riohacha piece.queen.white {
   background-image: url('../img/pieces/riohacha/wQ.svg');
 }
-.riohacha .cg-board-wrap piece.king.white {
+.riohacha piece.king.white {
   background-image: url('../img/pieces/riohacha/wK.svg');
 }
-.riohacha .cg-board-wrap piece.pawn.black {
+.riohacha piece.pawn.black {
   background-image: url('../img/pieces/riohacha/bP.svg');
 }
-.riohacha .cg-board-wrap piece.bishop.black {
+.riohacha piece.bishop.black {
   background-image: url('../img/pieces/riohacha/bB.svg');
 }
-.riohacha .cg-board-wrap piece.knight.black {
+.riohacha piece.knight.black {
   background-image: url('../img/pieces/riohacha/bN.svg');
 }
-.riohacha .cg-board-wrap piece.rook.black {
+.riohacha piece.rook.black {
   background-image: url('../img/pieces/riohacha/bR.svg');
 }
-.riohacha .cg-board-wrap piece.queen.black {
+.riohacha piece.queen.black {
   background-image: url('../img/pieces/riohacha/bQ.svg');
 }
-.riohacha .cg-board-wrap piece.king.black {
+.riohacha piece.king.black {
   background-image: url('../img/pieces/riohacha/bK.svg');
 }
 
 /* shapes */
-.shapes .cg-board-wrap piece.pawn.white {
+.shapes piece.pawn.white {
   background-image: url('../img/pieces/shapes/wP.svg');
 }
-.shapes .cg-board-wrap piece.bishop.white {
+.shapes piece.bishop.white {
   background-image: url('../img/pieces/shapes/wB.svg');
 }
-.shapes .cg-board-wrap piece.knight.white {
+.shapes piece.knight.white {
   background-image: url('../img/pieces/shapes/wN.svg');
 }
-.shapes .cg-board-wrap piece.rook.white {
+.shapes piece.rook.white {
   background-image: url('../img/pieces/shapes/wR.svg');
 }
-.shapes .cg-board-wrap piece.queen.white {
+.shapes piece.queen.white {
   background-image: url('../img/pieces/shapes/wQ.svg');
 }
-.shapes .cg-board-wrap piece.king.white {
+.shapes piece.king.white {
   background-image: url('../img/pieces/shapes/wK.svg');
 }
-.shapes .cg-board-wrap piece.pawn.black {
+.shapes piece.pawn.black {
   background-image: url('../img/pieces/shapes/bP.svg');
 }
-.shapes .cg-board-wrap piece.bishop.black {
+.shapes piece.bishop.black {
   background-image: url('../img/pieces/shapes/bB.svg');
 }
-.shapes .cg-board-wrap piece.knight.black {
+.shapes piece.knight.black {
   background-image: url('../img/pieces/shapes/bN.svg');
 }
-.shapes .cg-board-wrap piece.rook.black {
+.shapes piece.rook.black {
   background-image: url('../img/pieces/shapes/bR.svg');
 }
-.shapes .cg-board-wrap piece.queen.black {
+.shapes piece.queen.black {
   background-image: url('../img/pieces/shapes/bQ.svg');
 }
-.shapes .cg-board-wrap piece.king.black {
+.shapes piece.king.black {
   background-image: url('../img/pieces/shapes/bK.svg');
 }
 
 /* spatial */
-.spatial .cg-board-wrap piece.pawn.white {
+.spatial piece.pawn.white {
   background-image: url('../img/pieces/spatial/wP.svg');
 }
-.spatial .cg-board-wrap piece.bishop.white {
+.spatial piece.bishop.white {
   background-image: url('../img/pieces/spatial/wB.svg');
 }
-.spatial .cg-board-wrap piece.knight.white {
+.spatial piece.knight.white {
   background-image: url('../img/pieces/spatial/wN.svg');
 }
-.spatial .cg-board-wrap piece.rook.white {
+.spatial piece.rook.white {
   background-image: url('../img/pieces/spatial/wR.svg');
 }
-.spatial .cg-board-wrap piece.queen.white {
+.spatial piece.queen.white {
   background-image: url('../img/pieces/spatial/wQ.svg');
 }
-.spatial .cg-board-wrap piece.king.white {
+.spatial piece.king.white {
   background-image: url('../img/pieces/spatial/wK.svg');
 }
-.spatial .cg-board-wrap piece.pawn.black {
+.spatial piece.pawn.black {
   background-image: url('../img/pieces/spatial/bP.svg');
 }
-.spatial .cg-board-wrap piece.bishop.black {
+.spatial piece.bishop.black {
   background-image: url('../img/pieces/spatial/bB.svg');
 }
-.spatial .cg-board-wrap piece.knight.black {
+.spatial piece.knight.black {
   background-image: url('../img/pieces/spatial/bN.svg');
 }
-.spatial .cg-board-wrap piece.rook.black {
+.spatial piece.rook.black {
   background-image: url('../img/pieces/spatial/bR.svg');
 }
-.spatial .cg-board-wrap piece.queen.black {
+.spatial piece.queen.black {
   background-image: url('../img/pieces/spatial/bQ.svg');
 }
-.spatial .cg-board-wrap piece.king.black {
+.spatial piece.king.black {
   background-image: url('../img/pieces/spatial/bK.svg');
 }

@@ -13,4 +13,7 @@
   <a href="https://greenkeeper.io/">
     <img src="https://badges.greenkeeper.io/Block-Lab/dechess.svg" alt="greenkeeper">
   </a>
+  <a href="https://www.codefactor.io/repository/github/block-lab/dechess/overview/master">
+    <img src="https://www.codefactor.io/repository/github/block-lab/dechess/badge/master" alt="codefactor">
+  </a>
 </div>

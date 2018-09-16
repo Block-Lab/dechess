@@ -1,3 +1,6 @@
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Block-Lab/dechess.svg)](https://greenkeeper.io/)
+
 <h1 align="center">dechess</h1>
 
 <div align="center">

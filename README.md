@@ -3,3 +3,11 @@
 <div align="center">
   <strong>IPFS Chess Platform</strong>
 </div>
+
+<br />
+
+<div align="center">
+  <a href="https://travis-ci.com/Block-Lab/dechess">
+    <img src="https://travis-ci.com/Block-Lab/dechess.svg?branch=master" alt="Build Status">
+  </a>
+</div>

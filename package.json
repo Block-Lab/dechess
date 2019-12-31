@@ -23,7 +23,7 @@
   "homepage": "https://github.com/Block-Lab/dechess#readme",
   "dependencies": {
     "chess.js": "^0.10.2",
-    "chessground": "^7.3.2"
+    "chessground": "^7.6.11"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^1.0.0",
